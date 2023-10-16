@@ -16,6 +16,7 @@ import com.devpredator.model.dao.DisqueraDao;
  */
 public class SpringDesktopTest {
 
+	
 	@Test
 	public void testContext() {
 		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
